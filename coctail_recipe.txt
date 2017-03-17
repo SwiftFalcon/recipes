@@ -1,0 +1,1 @@
+Hello there, folks! This file is just a part of my git training course, it should have been like a recipe but it’s not as you see, maybe you can commit and make up some cool recipes over here!
